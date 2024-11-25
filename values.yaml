@@ -1,3 +1,4 @@
 app:
+  namespace: default
   image: nginx:alpine
   tag: latest
